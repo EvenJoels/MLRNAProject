@@ -10,7 +10,7 @@ input: the table of name_variant and sequence
 
 
 fold with wobble label
-add concreate structure
+add concrete structure
 add new_define_structure2
 """
 
